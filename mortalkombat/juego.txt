@@ -1,0 +1,29 @@
+20
+JohnnyCage A
+Kano B
+JohnnyCage A
+JohnnyCage Y
+JohnnyCage X
+JohnnyCage ArribaA
+Kano ArribaB
+20
+JohnnyCage A
+Kano B
+20
+JohnnyCage A
+Kano B
+JohnnyCage AbajoA
+Kano IzquierdaB
+20
+Kano B
+20
+JohnnyCage A
+Kano B
+20
+
+
+Fin
+
+
+JohnnyCage:FDerechaDerechaDerechaX
+Kano:FIzquierdaAbajoDerechaA
